@@ -1,0 +1,13 @@
+D:\Pruebas\Tranzact\SearchFight\SearchFight.Core\bin\Debug\netcoreapp3.1\SearchFight.Core.deps.json
+D:\Pruebas\Tranzact\SearchFight\SearchFight.Core\bin\Debug\netcoreapp3.1\SearchFight.Core.dll
+D:\Pruebas\Tranzact\SearchFight\SearchFight.Core\bin\Debug\netcoreapp3.1\SearchFight.Core.pdb
+D:\Pruebas\Tranzact\SearchFight\SearchFight.Core\bin\Debug\netcoreapp3.1\SearchFight.Common.dll
+D:\Pruebas\Tranzact\SearchFight\SearchFight.Core\bin\Debug\netcoreapp3.1\SearchFight.Services.dll
+D:\Pruebas\Tranzact\SearchFight\SearchFight.Core\bin\Debug\netcoreapp3.1\SearchFight.Services.pdb
+D:\Pruebas\Tranzact\SearchFight\SearchFight.Core\bin\Debug\netcoreapp3.1\SearchFight.Common.pdb
+D:\Pruebas\Tranzact\SearchFight\SearchFight.Core\obj\Debug\netcoreapp3.1\SearchFight.Core.csprojAssemblyReference.cache
+D:\Pruebas\Tranzact\SearchFight\SearchFight.Core\obj\Debug\netcoreapp3.1\SearchFight.Core.AssemblyInfoInputs.cache
+D:\Pruebas\Tranzact\SearchFight\SearchFight.Core\obj\Debug\netcoreapp3.1\SearchFight.Core.AssemblyInfo.cs
+D:\Pruebas\Tranzact\SearchFight\SearchFight.Core\obj\Debug\netcoreapp3.1\SearchFight.Core.csproj.CopyComplete
+D:\Pruebas\Tranzact\SearchFight\SearchFight.Core\obj\Debug\netcoreapp3.1\SearchFight.Core.dll
+D:\Pruebas\Tranzact\SearchFight\SearchFight.Core\obj\Debug\netcoreapp3.1\SearchFight.Core.pdb
