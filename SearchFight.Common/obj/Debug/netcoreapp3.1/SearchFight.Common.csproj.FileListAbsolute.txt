@@ -1,7 +1,0 @@
-D:\Pruebas\Tranzact\SearchFight\SearchFight.Common\bin\Debug\netcoreapp3.1\SearchFight.Common.deps.json
-D:\Pruebas\Tranzact\SearchFight\SearchFight.Common\bin\Debug\netcoreapp3.1\SearchFight.Common.dll
-D:\Pruebas\Tranzact\SearchFight\SearchFight.Common\obj\Debug\netcoreapp3.1\SearchFight.Common.AssemblyInfoInputs.cache
-D:\Pruebas\Tranzact\SearchFight\SearchFight.Common\obj\Debug\netcoreapp3.1\SearchFight.Common.AssemblyInfo.cs
-D:\Pruebas\Tranzact\SearchFight\SearchFight.Common\bin\Debug\netcoreapp3.1\SearchFight.Common.pdb
-D:\Pruebas\Tranzact\SearchFight\SearchFight.Common\obj\Debug\netcoreapp3.1\SearchFight.Common.dll
-D:\Pruebas\Tranzact\SearchFight\SearchFight.Common\obj\Debug\netcoreapp3.1\SearchFight.Common.pdb
